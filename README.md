@@ -97,6 +97,6 @@ We welcome contributions from everyone! To contribute:
 
 ## Resources
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [React Documentation](https://react.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/guide/)
